@@ -32,6 +32,7 @@ python app.py
 * samples/output/<files>.pdf - sample output files
 
 #### Convert to an executable file:
+Run command below and execute the file at dict/app.exe folder.
 ```
 pyinstaller -wF app.py
 ```
