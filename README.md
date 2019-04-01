@@ -30,7 +30,7 @@ python app.py
 * output/cert.png - sample certificate template
 * samples/output/files.pdf - sample output files
 
-### Convert to an executable file:
+#### Convert to an executable file(optional):
 Run command below and execute the file at dict/app.exe folder.
 ```
 pyinstaller -wF app.py
