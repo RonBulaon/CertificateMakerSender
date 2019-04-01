@@ -9,7 +9,7 @@ These instructions will help you get a copy of this tool and how to make it work
 git clone https://github.com/RonBulaon/CertificateMakerSender.git
 ```
 
-### To install requirements :
+### Requirements :
 Ensure that you have edited the samples/namelist.csv to your actual data. Make a certificate template in PNG format.
 ```
 cd CertificateMakerSender
