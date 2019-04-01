@@ -29,7 +29,7 @@ Execute the tool by running below command (or make an executable file). Once the
 python app.py
 ```
 
-### Samples:
+### Samples' Folder:
 * output/namelist.csv - sample input file
 * output/cert.png - sample certificate template
 * samples/output/files.pdf - sample output files
