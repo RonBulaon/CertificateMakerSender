@@ -1,5 +1,5 @@
 # CertificateMakerSender
-This tool will read information from CSV file. The information will then be used to create a training certificate file in PDF format. If the creation is succesful, the PDF file will then be sent to the recipient of the certificate.
+This tool will read information from a CSV file. The information will then be used to create a training certificate file in PDF format. If the creation is succesful, the PDF file will then be sent to the recipient of the certificate via email.
 
 ![screenshot tool](https://raw.githubusercontent.com/RonBulaon/CertificateMakerSender/master/samples/screenshot.png)
 
