@@ -1,5 +1,5 @@
 # CertificateMakerSender
-This tool will generate a training certificate in PDF format and send it to the recipient.
+This tool will read information from CSV file. The information will then be used to create a training certificate file in PDF format. If the creation is succesful, the PDF file will then be sent to the recipient of the certificate.
 
 ## GetttingStarted
 These instructions will help you get a copy of this tool and how to make it work on your device.
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 
 #### Run:
-Execute the tool by running below command (or make an executable file). Once the GUI has started supply the needed information from samples folder.
+Execute the tool by running below command (or make an executable file). Once the GUI has started supply the needed information. You can follow sample files at samples folder.
 ```
 python app.py
 ```
