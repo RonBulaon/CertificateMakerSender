@@ -6,7 +6,7 @@ This tool will read information from CSV file. The information will then be used
 ![screenshot output](https://raw.githubusercontent.com/RonBulaon/CertificateMakerSender/master/samples/screenshot_cert.png)
 
 ## GetttingStarted
-These instructions will help you get a copy of this tool and how to make it work on your device.
+These instructions will help you get a copy of this tool and teach you how to make it work on your device.
 
 ### Download a copy:
 ```
