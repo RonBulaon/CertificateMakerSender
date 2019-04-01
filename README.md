@@ -12,6 +12,7 @@ git clone https://github.com/RonBulaon/CertificateMakerSender.git
 ```
 
 #### To install requirements :
+Ensure that you have edited the samples/namelist.csv to your actual data. Make a certificate template in PNG format.
 ```
 cd CertificateMakerSender
 ```
@@ -20,16 +21,15 @@ cd CertificateMakerSender
 pip install -r requirements.txt
 ```
 
-Ensure that you have edited the samples/namelist.csv to your actual data. Make a certificate template in PNG format.
-
-
 #### Run:
 Execute the tool by running below command (or make an executable file). Once the GUI has started supply the needed information from samples folder.
 ```
 python app.py
 ```
-
-
+#### Samples:
+* output/namelist.csv - sample input file
+* output/cert.png - sample certificate template
+* samples/output/<files>.pdf - sample output files
 
 #### Convert to an executable file:
 ```
@@ -42,4 +42,3 @@ I have used the following modules. Thank you!
 * PySimpleGUI - https://pypi.org/project/PySimpleGUI/
 * PyInstaller - https://www.pyinstaller.org/
 * HTML2PDF - https://pypi.org/project/html2pdf/
-
