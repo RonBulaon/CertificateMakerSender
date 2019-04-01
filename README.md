@@ -1,9 +1,9 @@
 # CertificateMakerSender
 This tool will read information from CSV file. The information will then be used to create a training certificate file in PDF format. If the creation is succesful, the PDF file will then be sent to the recipient of the certificate.
 
-![alt text](https://raw.githubusercontent.com/RonBulaon/CertificateMakerSender/master/samples/screenshot.png)
+![screenshot tool](https://raw.githubusercontent.com/RonBulaon/CertificateMakerSender/master/samples/screenshot.png)
 
-![click here for sample output](https://github.com/RonBulaon/CertificateMakerSender/blob/master/samples/output/JohnDoe_1April2019_IntroductiontoPython101.pdf)
+![screenshot output](https://raw.githubusercontent.com/RonBulaon/CertificateMakerSender/master/samples/screenshot_cert.png)
 
 ## GetttingStarted
 These instructions will help you get a copy of this tool and how to make it work on your device.
