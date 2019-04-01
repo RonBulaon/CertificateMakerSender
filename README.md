@@ -3,6 +3,8 @@ This tool will read information from CSV file. The information will then be used
 
 ![alt text](https://raw.githubusercontent.com/RonBulaon/CertificateMakerSender/master/samples/screenshot.png)
 
+![alt text](https://github.com/RonBulaon/CertificateMakerSender/blob/master/samples/output/JohnDoe_1April2019_IntroductiontoPython101.pdf)
+
 ## GetttingStarted
 These instructions will help you get a copy of this tool and how to make it work on your device.
 
