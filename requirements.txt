@@ -1,0 +1,4 @@
+fpdf
+PySimpleGUI
+PyInstaller
+HTML2PDF
