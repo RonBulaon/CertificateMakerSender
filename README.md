@@ -28,7 +28,7 @@ python app.py
 ### Samples:
 * output/namelist.csv - sample input file
 * output/cert.png - sample certificate template
-* samples/output/<files>.pdf - sample output files
+* samples/output/files.pdf - sample output files
 
 ### Convert to an executable file:
 Run command below and execute the file at dict/app.exe folder.
