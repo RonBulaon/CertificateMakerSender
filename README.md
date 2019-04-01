@@ -6,12 +6,12 @@ These instructions will help you get a copy of this tool and how to make it work
 
 ### Installing
 
-Download a copy:
+####Download a copy:
 ```
 git clone https://github.com/RonBulaon/CertificateMakerSender.git
 ```
 
-To install requirements :
+####To install requirements :
 ```
 cd CertificateMakerSender
 ```
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 Ensure that you have edited the samples/namelist.csv to your actual data. Make a certificate template in PNG format.
 
 
-Run:
+####Run:
 Execute the tool by running below command (or make an executable file). Once the GUI has started supply the needed information from samples folder.
 ```
 python app.py
@@ -31,7 +31,7 @@ python app.py
 
 
 
-Convert to an executable file:
+####Convert to an executable file:
 ```
 pyinstaller -wF app.py
 ```
