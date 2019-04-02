@@ -46,3 +46,7 @@ I have used the following modules. Thank you!
 * PySimpleGUI - https://pypi.org/project/PySimpleGUI/
 * PyInstaller - https://www.pyinstaller.org/
 * HTML2PDF - https://pypi.org/project/html2pdf/
+
+##Copyright
+Copyright (c) 2019 Ron Bulaon
+Licensed under The MIT License (MIT). See LICENSE for more info.
